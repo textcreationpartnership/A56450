@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend in the country being a vindication of the Parliaments whole proceedings this last session : with the state of the plot and manner of its discovery.</title>
+            <author>J. P., 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56450</idno>
+            <idno type="STC">Wing P55</idno>
+            <idno type="STC">ESTC R30077</idno>
+            <idno type="EEBO-CITATION">11242584</idno>
+            <idno type="OCLC">ocm 11242584</idno>
+            <idno type="VID">47059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1447:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend in the country being a vindication of the Parliaments whole proceedings this last session : with the state of the plot and manner of its discovery.</title>
+                  <author>J. P., 17th cent.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: J.P.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47059:1"/>
+            <pb n="1" facs="tcp:47059:1" rendition="simple:additions"/>
+            <head>A LETTER TO <hi>A friend in the Country:</hi> Being a Vindication of the Parliaments whole Proceedings this laſt Seſſion.</head>
+            <head type="sub">With the State of the <hi>PLOT,</hi> and manner of its Diſcovery.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Receiv'd yours of the 20th. inſtant, wherein I perceive ſome diſaffected Perſon hath been labouring with you, to give you an evil Character of this preſent Parliament; as alſo to occaſion in you ſome Jealouſie concerning the Truth of this Plot, by reaſon of the de<g ref="char:EOLhyphen"/>pendance you ſay it hath upon two ſingle perſons Evidence, <hi>viz.</hi> Mr. <hi>Oates,</hi> and Mr. <hi>Bedlow:</hi> Therefore ſince you are pleas'd to condeſcend ſo far as to relie upon my poor Judgment, and deſire my Opinion in the matter, I ſhall to the beſt of my power preſent you with the ſtare of the Caſe.</p>
+            <p>The many and great Advantages that of late years have accrued to the Popiſh Party, from the ſucceſs of the <hi>French</hi> Arms abroad, (whereby they hoped in time of need to be aſſiſted here at home) firſt emboldned them to undertake this Deſign, which was then on foot of ſub<g ref="char:EOLhyphen"/>verting our Religion and Government. This made them deſpiſe and wiſh ill to the Emperor, and King of <hi>Spain,</hi> becauſe (though they were no leſs Catholick than the other) they were not ſo ready at hand, nor ſo neceſſary for the carrying on of their Deſign, as would be <hi>Lewis</hi> the 14th. if he proved ſucceſsful: wherefore nothing could be ill, nothing could be diſhonou<g ref="char:EOLhyphen"/>rable that he acted. Now however at this time I can laugh as heartily at any deſign of a Maſſacre from the Papiſts, as any one; yet on the other ſide I muſt affirm, that had not this Plot been diſcover'd, nothing was more feaſible: when the King had been deſtroy'd, and a Popiſh Succeſſor ſo eſtabliſh'd, that all had been Traytors who oppoſed him; when all Offices of Truſt were put into the hands of Papiſts, as <hi>Hull</hi> was then in the hands of the Lord <hi>Bellaſis, &amp;c.</hi> when all the Commonalty of <hi>England</hi> were (by that Statute for the <hi>Preſerving of the Game</hi>) diſarm'd and not left ſo much as a Muſquet or Pocket-Piſtol, for fear killing a Popiſh Bird; when we had a mercenary Army on foot, ready rais'd and fill'd with Popiſh Officers, to have joyn<g ref="char:punc">▪</g>d that Party at an hours warning; when the <hi>French</hi> was ready to have aſſiſted them with Men, Money, and Ammunition, being through their contrivance at Peace with all the reſt of the World; when at the ſame time the <hi>Spaniards</hi> (under the name of Pilgrims) had deſign'd to Land amongſt us 12 or 14000 men, which is atteſted by a Captain who was on board their Fleet, before they were diſpers'd by ill weather; when all our own Ships had been beſtow'd upon Popiſh Commanders; when all our ſtrong Forts and Militia had been under the con<g ref="char:EOLhyphen"/>duct of Popiſh Officers; when at the ſame time our City had been Fired, and every man taking care of his own particular concern, ſo that none were left to mind the publick; when you might have ſearch'd twenty Houſes, before you met with one that had more Arms in it, than ſome old ruſty Gun or Piſtol, and that perhaps without either Flint, Power, or Bullet: when all theſe things concurr'd together, as they did at the time of the Plots diſcovery, you muſt needs confeſs, That they had it in their Power to act Maſſacres, or any other Villanies they pleas'd. But now, Sir, bleſſed be God the Scene is chang'd, and however it is to be fear'd that
+<pb n="2" facs="tcp:47059:2"/>their wicked Engines are ſtill at work, yet I cannot but hope the beſt, ſince this prodigious Diſcovery. For having obſerved the miraculous Providence of Almighty God, who in the midſt of theſe our Troubles hath raiſed us up ſuch a Parliament, whoſe Wiſdom is ſufficient to ſearch into the moſt intricate deſigns of our Enemies, whoſe Religion prevails above the Su<g ref="char:EOLhyphen"/>perſtition of our Adverſaries, whoſe Courage ſlights their <hi>Godferizing</hi> Tenents, and whoſe Wealth and Fortunes are ſufficient to contemn all Indirect Bribes or Penſions, knowing no other Service but that of the Publick. Having likewiſe obſerv'd the ſtupendious love and care which the great Creator hath had for our protection, in his wonderful Diſcovery of this ſo general and ſo damnable a Plot; how he firſt rais'd up Mr. <hi>Oates,</hi> to be an Inſtrument of their detection; whoſe ſingle Evidence being cenſured for want of a ſecond, how (according to that old ſaying, <hi>Quos Jupiter vult perdere, hos prius dementat</hi>) God ſo blinded that Popiſh Party, as to ſuffer them to commit that execrable Murder upon that worthy Magiſtrate Sir <hi>Edmondbury Godfrey,</hi> who as he had made the Plot known in his Life, ſo did he make it be believ'd by his Death: After this, how the Almighty rais'd up Mr. <hi>Bedlow,</hi> who by his Teſtimony did not only diſcover the aforeſaid horrid Murder, but alſo in the main confirm'd the former Evidence of Mr. <hi>Oates:</hi> And then, when their Evidence grew ſomething cold, and to be cenſured for their reflections upon ſome Great Perſons, how he likewiſe rais'd up firſt Mr. <hi>Prance,</hi> next Mr. <hi>Dugdale,</hi> and then Mr. <hi>Everard,</hi> together with divers Letters and Writings, which did not only confirm the former Evidence; but were of themſeves ſufficient to prove the verity of this Plot, meerly by Circumſtances, admitting Mr. <hi>Gates</hi> and Mr. <hi>Bedlow</hi> to be as great Lyars as the Papiſts report them to be. Having thus therefore obſerv'd ſuch a Chain of Providence link'd in our defence, I cannot but relie upon it, and hope that the Storm may light more heavy upon our Enemies, than our ſelves. However, if any amongſt us have betray'd us into ruine, when it come, I am ſure for our parts we ſhall have the ſame ſatisfaction which <hi>Aeſop</hi>'s little Fiſhes had, who being purſued to ſhoar by the great ones, when the little ones lay broil<g ref="char:EOLhyphen"/>ing in the Sun, and juſt before they gave up the Ghoſt, they had the pleaſure to behold thoſe great Fiſh (who had brought them into that ruine) to lie broiling as well as themſelves. And this, Sir, is what I have to inform you of concerning the Plot.</p>
+            <p>But now concerning our <hi>True Engliſh Parliament,</hi> As every <hi>Engliſh</hi>-man is repreſented by them, ſo ought every <hi>Engliſh</hi>-man to juſtifie their Proceedings; he that reflects upon them, reflects upon you, me, and every one; whereas he that vindicates them, vindicates himſelf. Therefore in right of the People who choſe them, give me leave to juſtifie their Proceedings unto you, againſt all ſuch Objections as their enemies have ſuggeſted.</p>
+            <p>Firſt then, The <hi>Papiſts</hi> (whoſe only intereſt it is to ſpeak againſt them, and therefore all who do ſo are ſuch) have under the pretence of Friends and moderate Church of <hi>England</hi>-men, inveigh'd againſt the Proceedings of this Parliament, as too hot and too raſh both againſt <hi>Thomas</hi> Earl of <hi>Danby,</hi> and <hi>James</hi> Duke of <hi>York;</hi> never conſidering that a man cannot be too zealous in a good Cauſe, and now the Nation lyes at ſtake, <hi>Non progredi eſt regredi,</hi> to be lukewarm would be to countenance the Plot. What! would they have <hi>Danby</hi> baniſh'd? bid him take up his Bed and walk? A pretty puniſhment for a man that is guilty of ſo many Crimes, that he wanted words to expreſs them by: You have ruin'd the Nation, couzen'd the King of ſo much Money, go 20 miles off and enjoy it; if this be all, <hi>England</hi> is the cheapeſt Treaſon-Ordinary in the World. If he had robb'd a man upon the High-way of a Crown, (although to reſcue himſelf from ſtarving) he had ſurely died; but now having committed ſo much greater Crimes, it will be clemency (forſooth) to pardon him: <hi>Parva ſcelera puniuntur, magna in triumphis feruntur;</hi> As the Pirate ſaid to <hi>Alexander, Becauſe I rob with but one Ship, I am a Rogue, a Pirate, and deſerve hanging, but you that rob with a hundred are for ſo doing call'd a great and gallant Prince.</hi>
+            </p>
+            <p>In the next place, I will acquaint you ſomething concerning this Lord's Pardon, whereof I preſume you cannot but have heard. It is a Pardon that comprehends all the Crimes that mankind could invent, although perhaps all little enough too for ſo great a ſinner; however this Pardon is the chief and only Plea he depends on, ſaying, it was granted him by the King, and therefore 'tis good in Law.</p>
+            <p>Here firſt, Although I deny not it came from the King, yet every good Subject hath great reaſon to believe that he never acquainted his Majeſty, either of what Crimes he was guilty, or what Crimes were comprehended in the Pardon, for we are all too well aſſured of his Majeſty's Juſtice, to believe he would have granted ſuch a Pardon wittingly: Therefore this Pardon may rather be ſaid to have been ſtollen from the King, than granted by him; alſo its not paſſing through all the Offices, (which were appointed only to prevent ſuch Pardons as theſe) ſhew in what an illegal and clandeſtine manner it was obtain'd.</p>
+            <pb n="3" facs="tcp:47059:2" rendition="simple:additions"/>
+            <p>But ſecondly, Admitting it did come from the King, yet is it at beſt but a diſputable thing whether it be therefore good; I am ſure if it is good, the conſequences are evil; ſince if a Par<g ref="char:EOLhyphen"/>don ſtands good againſt ſuch an Impeachment in Parliament, what redreſs hath the Subject (notwithſtanding all his <hi>Magna Charta</hi>) againſt any Courtier, who when he hath raviſh'd his Wife or murdred his Children, produces ſuch a Pardon from his Maſter? Is not the King in this caſe as abſolute as the great Turk, when he may ſend for our Heads in a black Box, ſince 'tis but pardoning the Meſſenger that fetches them?</p>
+            <p>Laſtly, As to the manner of his Trial, if any Perſon reflects upon the Commons Proceed<g ref="char:EOLhyphen"/>ings in that Matter, it ſhews that he had not a true underſtanding of their Reaſons, ſince quitting the leaſt part of their Right, might perhaps have been a means of ſaving all the other five Lords in the Tower, as well as the Earl of <hi>Danby;</hi> And if the Spiritual Lords had no Right to ſit and Vote at his Trial, which 'tis not yet proved they had, then the Commons had as much reaſon to oppoſe it, as one of us have reaſon to except againſt the Sons being on the Jury for the Father, from whom he hath receiv'd his whole Eſtate. And this I hope may prove ſatisfactory to you in behalf of the Commons, and may alſo ſuffice in anſwer to all thoſe, who condemn them for their Proceedings againſt <hi>Thomas</hi> Earl of <hi>Danby.</hi>
+            </p>
+            <p>The next thing wherewith they are charg'd, is their Bill for the excluding of <hi>James</hi> Duke of <hi>York,</hi> as if it were not only hard meaſure to accuſe him without being heard, but alſo un<g ref="char:EOLhyphen"/>juſt to exclude the Heir to the Crown upon any account whatſoever.</p>
+            <p>Firſt, That it is not hard meaſure to exclude him without being heard is evident, for that ſeveral Letters from Cardinal <hi>Howard,</hi> the Pope's Nuncioes, and other grand Papiſts, in An<g ref="char:EOLhyphen"/>ſwer to what he had either ſent or caus'd to be ſent, ſhew him to be the Original of this Plot, both againſt the King's Perſon and Government, as it hath already been voted in the Houſe of Commons.</p>
+            <p>Secondly, For that his being a <hi>Roman Catholick,</hi> muſt of neceſſity produce ſome ill effects againſt the Life of his moſt Sacred Majeſty, (whether he be conſenting thereunto or no) ſince nothing would ſo highly advance the Popiſh Intereſt as the Duke's being King; whereas if he were a Proteſtant, they could have no advantage by plucking down one Proteſtant to ſet up another.</p>
+            <p>Thirdly, A prince doth not run ſo much hazard from any Perſon living as from his next Heir, whoſe Attainder (if he kills him) is immediately wiped off by the Crown.</p>
+            <p>Here ſome may object and ſay, <hi>Why had it not been a better way to have proceeded by a Sum<g ref="char:EOLhyphen"/>mons and an Impeachment?</hi>
+            </p>
+            <p>To which I anſwer, That the Parliament had too lately had experience what a tedious and difficult way that of an Impeachment was, from the Proceedings againſt the Earl of <hi>Danby;</hi> and if the Trial of a Treaſurer was ſo impeded, how much more unacceſſible would the next Heir to the Crown have been, where every one would ſing a <hi>Placebo</hi> to the riſing Sun.</p>
+            <p>Secondly, Others will have it to be unjuſt to exclude the next Heir from the Crown upon any account whatſoever; but this I will prove to be contrary to the Law of Nature and Cu<g ref="char:EOLhyphen"/>ſtom of all Nations.</p>
+            <p>Firſt, That it is contrary to the Law of Nature and Reaſon, to ſuppoſe that the King and Parliament together cannot alter the Succeſſion, is evident, ſince the Heir apparent may ſome<g ref="char:EOLhyphen"/>times happen to be a Fool, a Mad-man, a Turk, a Heretick, or one deprived of his Senſes, from whom nothing but publick mine could be expected, ſhould the Government be put into his hands: Which doth ſufficiently prove, that propinquity of Birth or Blood, without other cir<g ref="char:EOLhyphen"/>cumſtances, is not alone ſufficient to be preferr'd to a Crown, for that no Reaſon or Law, Religion, or Wiſdom in the World, can admit ſuch Perſons to the guidance of a Common<g ref="char:EOLhyphen"/>wealth, from whom no good and nothing but deſtruction can be expected; Government be<g ref="char:EOLhyphen"/>ing in its primitive inſtitution ordain'd for the benefit of the Publick, and not for its de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Secondly, That it is lawful for King and Parliament to alter the Succeſſion, is evident from the Law of all Nations: And here let us begin with the People of <hi>Iſrael,</hi> (1 <hi>Reg.</hi> 8.) to whom, after God had granted the ſame Government of Kings that other neighbouring Nations had, (and whoſe Kings did then rule by Succeſſion as ours now do) yet nevertheleſs God did at the very beginning and firſt entrance of their Kings plainly ſhew, that though this Law of Succeſſi<g ref="char:EOLhyphen"/>on by birth and propinquity ſhould for the moſt part prevail, yet that it was not ſo preciſely neceſſary, but that upon juſt Cauſes it might be alter'd: As for inſtance, Albeit he made <hi>Saul</hi> a true and lawful King over the <hi>Jews,</hi> yet after his death, God ſuffer'd not any one of his ge<g ref="char:EOLhyphen"/>neration to ſucceed him, not withſtanding he left behind him many Children, and among others <hi>Iſhboſheth,</hi> a Prince of 40 years of age, (2 <hi>Reg.</hi> 1 and 21.) whom <hi>Abner</hi> the General
+<pb n="4" facs="tcp:47059:3"/>Captain of that Nation follow'd for a time as his lawful Lord and Maſter by Succeſſion, until God reproved him for it, and induced him to cleave unto <hi>David</hi> newly elected King, who was a ſtranger by birth, and no a kin at all to the King deceas'd. Now if any ſhall reply here, That God put by <hi>Saul</hi> for his ſins, that is no Anſwer at all to us; for we pretend not that a Prince who is next in blood, can be juſtly put by but for his own defect. Again, After <hi>David</hi> was thus inveſted with the Crown, yet do we not find the Law of Succeſſion to be perform'd to any of his elder Sons, nor to any of their off ſpring or deſcents, but only to <hi>Solemon</hi> who was his younger and tenth Son.</p>
+            <p>The next example of this kind among the <hi>Iſraelites</hi> was that of Prince <hi>Reboboam,</hi> lawful Son and Heir to King <hi>Solemon,</hi> who after his Father's death, refuſing the Peoples requeſt, to take off ſome heavy Impoſitions which were laid upon them by his Father, they dem'd to admit him for their King, (3. <hi>Reg.</hi> 11.) but rather choſe one <hi>Jeroboam, Rehoboam</hi>'s Servant, that was a meer ſtranger, and but of poor parentage, making him their King, and God approved thereof, as the Scripture in expreſs words doth teſtifie: And when <hi>Rehoboam</hi> that took him<g ref="char:EOLhyphen"/>ſelf to be openly injured hereby, would by Arms have purſued his Title, and had gather'd to<g ref="char:EOLhyphen"/>gether and Army of an hundred and fourscore thouſand choſen Souldiers, (as good as any <hi>French Janizaries</hi>) to pubniſh theſe Rebels, as he calls them, (5. <hi>Reg.</hi> 12.21.) God appear'd unto one <hi>Semeith</hi> a holy man, and bade him go to the Camp of <hi>Rehoboam,</hi> and tell them plainly, that he would not have them fights, againſt their Brethren, who had choſen another lawful King. Now if God permitted and allow'd of this in his own Common-wealth, which was to be the example and pattern of all others that ſhould enſue, no doubt but he approveth alſo the ſame in other Realms, <hi>viz.</hi> that the ordinary of Succeſſion be alter'd, when juſt occaſions are offer'd, either for his Service, the good of the People and Realm, or elſe for the publiſhment of the Plots, ſins, and wickedneſſes of ſome particular Princes.</p>
+            <p>Having thus therefore ſhew'd you the moſt authentick Preſidents and Authorities out of Scri<g ref="char:EOLhyphen"/>pture, I ſhall for brevity ſake (as unwilling to turn an Epiſtle into a Volume) omit thoſe in<g ref="char:EOLhyphen"/>numerable other examples, which I could here produce out of all other Hiſtories and King<g ref="char:EOLhyphen"/>doms, as well ancient as modern, both from <hi>Greece, Rome, Spain, France,</hi> and other Coun<g ref="char:EOLhyphen"/>treys, and will only touch upon <hi>England,</hi> and ſo conclude this Point.</p>
+            <p>To begin then firſt with King <hi>Edward,</hi> who dying in the year 900. left behind him two Sons lawfully begotten of his Wife <hi>Edgina, Edmond</hi> and <hi>Ethelred,</hi> and a third illegitimate Son, whoſe Name was <hi>Adelſtan,</hi> born of a Concubine; but yet foraſmuch as this baſe Son <hi>Adel<g ref="char:EOLhyphen"/>ſtan</hi> was eſteem'd to be of more valour than either of the other two, he was preferr'd to the Crown before them, although they were legitimate and he not, <hi>Polyd. hiſt. Ang. lib.</hi> 5. In fine, He that will conſider the paſſing of the Crown of <hi>England,</hi> from the death of <hi>Edmond Ironſide,</hi> (elder Son of King <hi>Etherled</hi>) until the poſſeſſion thereof gotten by <hi>William</hi> Duke of <hi>Normandy,</hi> may eaſily ſee, what Authority the Commonwealth hath in ſuch Affairs, to alter Titles of Succeſſion, according as publick neceſſity ſhall require. Again, After the Conqueſt, we ſee the Conquerour's eldeſt Son <hi>Robert</hi> Duke of <hi>Normandy</hi> diſinherited, and his two younger Brethren, <hi>William Ruſus,</hi> and <hi>Henry</hi> the Firſt, preferr'd before him. But to conclude this Point, I need trouble you with no other Arguments, to prove how juſtifiable ſuch an exclu<g ref="char:EOLhyphen"/>ſion of the next Heir is by our Laws, ſince by the (13th. of <hi>Eliz.</hi>) he is guilty of a <hi>praemu<g ref="char:EOLhyphen"/>nire,</hi> who affirms that the King and Parliament together cannot alter the Succeſſion.</p>
+            <p>This, Sir, is all that I can ſay in the Matter, which if it may prove effectual to convince you of your former Error, of the Parliaments being, too hot, you will then with the deſire no<g ref="char:EOLhyphen"/>thing more, than that they or their Ghoſts riſe again with the ſame brave Spirits they left us, and fall upon the ſame Subject, to wit, the Trial of the Traitors; ſo will our Enemies get no advantage by this Prorogation, ſo will the <hi>French,</hi> the Pope and the Devil, have juſt oc<g ref="char:EOLhyphen"/>caſion of mourning, when the cauſe of that <hi>Triumvirate</hi> is in ſo great danger. This, Sir, is all at preſent, from the Perſon in the World that loves and honours you moſt.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your moſt humble Servant, <hi>J. P.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:47059:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
